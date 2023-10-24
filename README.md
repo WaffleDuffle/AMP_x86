@@ -6,3 +6,6 @@
 > The main program I use for analysis is `emu8086`, and x86 emulator
 
 > Unzip the archive avaiable in this repo and install `emu8086` in order to run asm code
+
+![cpu](https://github.com/WaffleDuffle/Microprocessor_Architecture_-x86-/blob/main/resources/CPU.jpg)
+
